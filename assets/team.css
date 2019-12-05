@@ -1,0 +1,71 @@
+
+.MyHeader {
+    background-color: white;
+    min-height: 100px;
+    float: right;
+    }
+  
+  #mainNav {
+    background-color: dodgerblue;
+    color: white;
+    font-weight: bold;
+  }
+  .secHeader {
+    background-color: dodgerblue;
+  }
+  
+  
+  #mainNav a{
+    color: white;
+    font-weight: bold;
+    padding-left: 30px;
+  }
+
+   #picGrid {
+    background: linear-gradient(0deg, rgba(31, 75, 197, 0.3),rgba(31, 75, 197, 0.3)), url('./images/hero_baltimore_inner_harbor.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 300px;
+    z-index: -1;
+  }
+  
+  .jobCard {
+    width: 30%;
+    height: 400px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  
+  #searchArea {
+      float: left;
+      width: 60%;
+      height: 400px;
+      margin-left: 20px;
+      margin-top: 200px;
+      text-align: center;
+    }
+  
+  .footerParagraph {
+    color: white;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  
+  .footer {
+    color: white;
+    background-color: dodgerblue;
+    height: 100px;
+    width: 100%;
+    float: bottom; 
+    justify-content: center;
+  }
+  
+  .divCenter {
+    justify-content: center;
+    text-align: center;
+  }
+  
+  
+  
